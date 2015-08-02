@@ -99,3 +99,19 @@ name:iceSkating,x:-1779,z:1672,y:63,enabled:true,red:0.94647515,green:0.9603426,
 name:drawpoint72,x:-1766,z:1600,y:64,enabled:true,red:0.44635344,green:0.0823375,blue:0.59243834,suffix:,world:,dimensions:0#
 name:Node - ignis~comma~ ordo,x:-213,z:1366,y:65,enabled:true,red:0.010358453,green:0.67758656,blue:0.025117338,suffix:,world:,dimensions:0#
 name:Node - aer~comma~ aqua~comma~ potentia,x:-170,z:1388,y:63,enabled:true,red:0.5134572,green:0.2556634,blue:0.85980237,suffix:,world:,dimensions:0#
+name:drawpoint73,x:-670,z:-18,y:23,enabled:false,red:0.4670995,green:0.44280982,blue:0.21318579,suffix:,world:,dimensions:0#
+name:drawpoint74,x:-659,z:5,y:14,enabled:false,red:0.7781303,green:0.32502574,blue:0.94949514,suffix:,world:,dimensions:0#
+name:drawpoint75,x:-596,z:-26,y:23,enabled:false,red:0.7503842,green:0.623205,blue:0.09057844,suffix:,world:,dimensions:0#
+name:drawpoint76,x:-541,z:-44,y:11,enabled:false,red:0.63059694,green:0.9365183,blue:0.58456856,suffix:,world:,dimensions:0#
+name:drawpoint77,x:-536,z:-93,y:12,enabled:false,red:0.51523703,green:0.37055033,blue:0.26945758,suffix:,world:,dimensions:0#
+name:drawpoint78,x:-279,z:1307,y:71,enabled:false,red:0.5952857,green:0.5883354,blue:0.98618007,suffix:,world:,dimensions:0#
+name:drawpoint79,x:-149,z:1354,y:63,enabled:false,red:0.14253038,green:0.20560163,blue:0.44013095,suffix:,world:,dimensions:0#
+name:drawpoint80,x:-153,z:1378,y:63,enabled:false,red:0.43463695,green:0.42353946,blue:0.6629726,suffix:,world:,dimensions:0#
+name:drawpoint81,x:-168,z:1388,y:63,enabled:false,red:0.15937412,green:0.28756356,blue:0.034978926,suffix:,world:,dimensions:0#
+name:drawpoint82,x:-312,z:-630,y:87,enabled:false,red:0.68832284,green:0.39543772,blue:0.050571024,suffix:,world:,dimensions:0#
+name:drawpoint83,x:-287,z:-657,y:79,enabled:false,red:0.24562645,green:0.927004,blue:0.5244033,suffix:,world:,dimensions:0#
+name:drawpoint84,x:-280,z:-692,y:77,enabled:false,red:0.93697965,green:0.16645288,blue:0.5425507,suffix:,world:,dimensions:0#
+name:drawpoint85,x:-174,z:-765,y:80,enabled:false,red:0.027095139,green:0.3006974,blue:0.8685412,suffix:,world:,dimensions:0#
+name:drawpoint86,x:-155,z:-692,y:72,enabled:false,red:0.38065016,green:0.49917275,blue:0.7894639,suffix:,world:,dimensions:0#
+name:drawpoint87,x:-704,z:-1234,y:68,enabled:true,red:0.36867023,green:0.030991197,blue:0.6797663,suffix:,world:,dimensions:0#
+name:cult3,x:1477,z:-869,y:66,enabled:true,red:0.24397534,green:0.7588293,blue:0.8290051,suffix:,world:,dimensions:0#
