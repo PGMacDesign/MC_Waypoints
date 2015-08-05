@@ -81,7 +81,6 @@ name:drawpoint65,x:-862,z:1408,y:67,enabled:false,red:0.87762696,green:0.5748488
 name:drawpoint66,x:-811,z:1099,y:71,enabled:false,red:0.3952154,green:0.64521974,blue:0.023628533,suffix:,world:,dimensions:0#
 name:cult2,x:-829,z:1063,y:79,enabled:false,red:0.50005436,green:0.26529586,blue:0.28817934,suffix:,world:,dimensions:0#
 name:drawpoint67,x:-924,z:1470,y:64,enabled:false,red:0.72613096,green:0.6601242,blue:0.42444205,suffix:,world:,dimensions:0#
-name:drawpoint68-Fire,x:-870,z:1530,y:64,enabled:false,red:0.53942555,green:0.051532447,blue:0.9793158,suffix:,world:,dimensions:0#
 name:drawpoint69,x:-1009,z:1496,y:64,enabled:false,red:0.718792,green:0.56307286,blue:0.44524622,suffix:,world:,dimensions:0#
 name:snowArea1,x:-1111,z:1411,y:63,enabled:false,red:0.15638173,green:0.69562715,blue:0.4645701,suffix:,world:,dimensions:0#
 name:drawpoint70,x:-1361,z:1528,y:69,enabled:false,red:0.5637585,green:0.360277,blue:0.33591956,suffix:,world:,dimensions:0#
@@ -112,4 +111,3 @@ name:reg_spider_spawner,x:-725,z:93,y:34,enabled:false,red:0.47631294,green:0.98
 name:drawpoint90,x:-1317,z:-534,y:76,enabled:false,red:0.56687295,green:0.8422545,blue:0.53301734,suffix:,world:,dimensions:0#
 name:drawpoint91,x:-1234,z:-587,y:63,enabled:false,red:0.45525795,green:0.48078185,blue:0.52252704,suffix:,world:,dimensions:0#
 name:drawpoint92,x:-1225,z:-531,y:88,enabled:true,red:0.76374644,green:0.6496257,blue:0.069114745,suffix:,world:,dimensions:0#
-name:drawpoint93 - harvest soon,x:-1319,z:-721,y:74,enabled:true,red:0.21300256,green:0.43204743,blue:0.93205696,suffix:,world:,dimensions:0#
