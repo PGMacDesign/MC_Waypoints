@@ -25,7 +25,6 @@ name:drawpoint10,x:-445,z:-1015,y:62,enabled:false,red:0.9685215,green:0.2169262
 name:drawpoint11,x:-129,z:-869,y:63,enabled:false,red:0.8937138,green:0.15635228,blue:0.41198015,suffix:,world:,dimensions:0#
 name:drawpoint12,x:37,z:-891,y:74,enabled:false,red:0.034484327,green:0.9003088,blue:0.49623454,suffix:,world:,dimensions:0#
 name:drawpoint13 - terra~comma~ aer,x:135,z:-828,y:86,enabled:false,red:0.62723404,green:0.49610418,blue:0.49667937,suffix:,world:,dimensions:0#
-name:drawpoint14 - terra~comma~ aer~comma~ perdit,x:156,z:-794,y:90,enabled:false,red:0.40296793,green:0.28235382,blue:0.08213395,suffix:,world:,dimensions:0#
 name:drawpoint15,x:219,z:-784,y:77,enabled:false,red:0.5829338,green:0.45107305,blue:0.29996306,suffix:,world:,dimensions:0#
 name:drawpoint16,x:360,z:-766,y:64,enabled:false,red:0.561889,green:0.010539055,blue:0.32455784,suffix:,world:,dimensions:0#
 name:drawpoint17,x:457,z:-769,y:63,enabled:false,red:0.2576965,green:0.7299293,blue:0.47208196,suffix:,world:,dimensions:0#
