@@ -1,61 +1,57 @@
 subworlds:
 oldNorthWorlds:
-name:House,x:-676,z:-119,y:69,enabled:true,red:0.6770114,green:0.5075211,blue:0.9207566,suffix:,world:,dimensions:0#
-name:wisp cavern through coal,x:-646,z:-199,y:22,enabled:true,red:0.34417295,green:0.3979115,blue:0.34318966,suffix:,world:,dimensions:0#
-name:Node,x:-725,z:-176,y:64,enabled:true,red:0.8698263,green:0.62486565,blue:0.86802727,suffix:,world:,dimensions:0#
-name:Village,x:-461,z:-164,y:72,enabled:true,red:0.39727247,green:0.7768976,blue:0.48785692,suffix:,world:,dimensions:0#
-name:Big Cavern,x:-1422,z:-226,y:63,enabled:true,red:0.41680223,green:0.029240549,blue:0.19810998,suffix:,world:,dimensions:0#
-name:Node - perdito~comma~ ordo~comma~ terra,x:-634,z:-259,y:32,enabled:true,red:0.5692319,green:0.7721887,blue:0.9096888,suffix:,world:,dimensions:0#
-name:spider spawner,x:-560,z:-225,y:30,enabled:true,red:0.8996399,green:0.6988632,blue:0.6569081,suffix:,world:,dimensions:0#
-name:Mini Dungeon with node,x:-586,z:-966,y:64,enabled:true,red:0.36644226,green:0.7791175,blue:0.12527275,suffix:,world:,dimensions:0#
-name:Home,x:-679,z:-123,y:69,enabled:true,red:0.047058824,green:0.050980393,blue:0.6313726,suffix:,world:,dimensions:0#
-name:temp,x:-849,z:-797,y:63,enabled:true,red:0.49870622,green:0.023973048,blue:0.37508202,suffix:,world:,dimensions:0#
-name:mini dungeon,x:-595,z:-973,y:64,enabled:true,red:0.63093597,green:0.32437295,blue:0.1891998,suffix:,world:,dimensions:0#
-name:cult1,x:608,z:-794,y:63,enabled:true,red:0.8497251,green:0.15231723,blue:0.8853728,suffix:,world:,dimensions:0#
-name:drawpoint1,x:-508,z:-1154,y:81,enabled:true,red:0.36689687,green:0.6398502,blue:0.37297964,suffix:,world:,dimensions:0#
-name:drawpoint2,x:-536,z:-1172,y:66,enabled:true,red:0.06846857,green:0.46120572,blue:0.12848544,suffix:,world:,dimensions:0#
-name:drawpoint3,x:-643,z:-1163,y:85,enabled:true,red:0.39204997,green:0.4309942,blue:0.62835145,suffix:,world:,dimensions:0#
-name:drawpoint4,x:-480,z:-779,y:111,enabled:true,red:0.23732305,green:0.46802944,blue:0.62753797,suffix:,world:,dimensions:0#
-name:drawpoint5,x:-674,z:-1151,y:91,enabled:true,red:0.6225479,green:0.9874033,blue:0.47860104,suffix:,world:,dimensions:0#
-name:drawpoint6,x:-723,z:-1144,y:73,enabled:true,red:0.1355902,green:0.8084633,blue:0.99856097,suffix:,world:,dimensions:0#
-name:drawpoint7,x:-723,z:-1205,y:66,enabled:true,red:0.51964015,green:0.2394607,blue:0.3290503,suffix:,world:,dimensions:0#
-name:drawpoint8,x:-715,z:-1433,y:63,enabled:true,red:0.44696003,green:0.3317883,blue:0.6473619,suffix:,world:,dimensions:0#
-name:drawpoint9,x:-458,z:-1015,y:63,enabled:true,red:0.52113247,green:0.23081648,blue:0.7450202,suffix:,world:,dimensions:0#
-name:drawpoint10,x:-445,z:-1015,y:62,enabled:true,red:0.9685215,green:0.21692622,blue:0.86373794,suffix:,world:,dimensions:0#
-name:drawpoint11,x:-129,z:-869,y:63,enabled:true,red:0.8937138,green:0.15635228,blue:0.41198015,suffix:,world:,dimensions:0#
-name:drawpoint12,x:37,z:-891,y:74,enabled:true,red:0.034484327,green:0.9003088,blue:0.49623454,suffix:,world:,dimensions:0#
-name:drawpoint13,x:135,z:-828,y:86,enabled:true,red:0.62723404,green:0.49610418,blue:0.49667937,suffix:,world:,dimensions:0#
-name:drawpoint14,x:156,z:-794,y:90,enabled:true,red:0.40296793,green:0.28235382,blue:0.08213395,suffix:,world:,dimensions:0#
-name:drawpoint15,x:219,z:-784,y:77,enabled:true,red:0.5829338,green:0.45107305,blue:0.29996306,suffix:,world:,dimensions:0#
-name:drawpoint16,x:360,z:-766,y:64,enabled:true,red:0.561889,green:0.010539055,blue:0.32455784,suffix:,world:,dimensions:0#
-name:drawpoint17,x:457,z:-769,y:63,enabled:true,red:0.2576965,green:0.7299293,blue:0.47208196,suffix:,world:,dimensions:0#
-name:drawpoint18,x:609,z:-814,y:63,enabled:true,red:0.2886024,green:0.26466817,blue:0.3357411,suffix:,world:,dimensions:0#
-name:drawpoint19,x:954,z:-783,y:64,enabled:true,red:0.11254281,green:0.023095727,blue:0.76079184,suffix:,world:,dimensions:0#
-name:drawpoint20,x:1497,z:-906,y:74,enabled:true,red:0.5076831,green:0.6914813,blue:0.2972095,suffix:,world:,dimensions:0#
-name:drawpoint21,x:1599,z:-1052,y:63,enabled:true,red:0.17574859,green:0.5421017,blue:0.51814187,suffix:,world:,dimensions:0#
-name:drawpoint22,x:1564,z:-1054,y:68,enabled:true,red:0.99869907,green:0.47220188,blue:0.5111618,suffix:,world:,dimensions:0#
-name:drawpoint23,x:1489,z:-1159,y:69,enabled:true,red:0.27990532,green:0.38065797,blue:0.9811036,suffix:,world:,dimensions:0#
-name:drawpoint24,x:1496,z:-1189,y:71,enabled:true,red:0.5920063,green:0.5657785,blue:0.16810298,suffix:,world:,dimensions:0#
-name:drawpoint25,x:1477,z:-1221,y:79,enabled:true,red:0.58764607,green:0.22822219,blue:0.1372304,suffix:,world:,dimensions:0#
-name:drawpoint26,x:1532,z:-1195,y:80,enabled:true,red:0.41572058,green:0.16815758,blue:0.4193262,suffix:,world:,dimensions:0#
-name:drawpoint27,x:1564,z:-1187,y:83,enabled:true,red:0.25999683,green:0.14060521,blue:0.42239124,suffix:,world:,dimensions:0#
-name:drawpoint28,x:1640,z:-1186,y:78,enabled:true,red:0.8763755,green:0.2516163,blue:0.4633211,suffix:,world:,dimensions:0#
-name:drawpoint29,x:1648,z:-1161,y:69,enabled:true,red:0.049657404,green:0.43036836,blue:0.08153343,suffix:,world:,dimensions:0#
-name:drawpoint30,x:1692,z:-1311,y:64,enabled:true,red:0.034928024,green:0.81037015,blue:0.1979422,suffix:,world:,dimensions:0#
-name:drawpoint31,x:1617,z:-1278,y:66,enabled:true,red:0.5119335,green:0.56471944,blue:0.5484528,suffix:,world:,dimensions:0#
-name:drawpoint32,x:1637,z:-1357,y:64,enabled:true,red:0.4340139,green:0.020273983,blue:0.82639015,suffix:,world:,dimensions:0#
-name:drawpoint33,x:1758,z:-1431,y:70,enabled:true,red:0.6172377,green:0.9518424,blue:0.5791808,suffix:,world:,dimensions:0#
-name:drawpoint34,x:1843,z:-1534,y:84,enabled:true,red:0.23668176,green:0.04862213,blue:0.73555976,suffix:,world:,dimensions:0#
-name:drawpoint35,x:2263,z:-1573,y:75,enabled:true,red:0.723264,green:0.39105815,blue:0.17265981,suffix:,world:,dimensions:0#
-name:drawpoint36,x:2225,z:-1612,y:69,enabled:true,red:0.98543555,green:0.5847825,blue:0.248285,suffix:,world:,dimensions:0#
-name:drawpoint37,x:-462,z:-740,y:81,enabled:true,red:0.92206836,green:0.31869334,blue:0.59633267,suffix:,world:,dimensions:0#
-name:drawpoint38,x:-485,z:-543,y:83,enabled:true,red:0.588819,green:0.7049016,blue:0.3229329,suffix:,world:,dimensions:0#
-name:drawpoint39,x:-410,z:-428,y:70,enabled:true,red:0.056491435,green:0.58032405,blue:0.23799664,suffix:,world:,dimensions:0#
-name:drawpoint40,x:-365,z:-406,y:68,enabled:true,red:0.60549164,green:0.7606585,blue:0.46718383,suffix:,world:,dimensions:0#
-name:drawpoint41,x:-235,z:-220,y:64,enabled:true,red:0.9554128,green:0.24695748,blue:0.44820076,suffix:,world:,dimensions:0#
-name:drawpoint42,x:-324,z:-165,y:64,enabled:true,red:0.6872007,green:0.7624834,blue:0.6666271,suffix:,world:,dimensions:0#
-name:drawpoint43,x:-358,z:-79,y:70,enabled:true,red:0.13224262,green:0.74731624,blue:0.27256447,suffix:,world:,dimensions:0#
-name:drawpoint44,x:-344,z:52,y:68,enabled:true,red:0.50269145,green:0.9867089,blue:0.57091874,suffix:,world:,dimensions:0#
+name:House,x:-676,z:-119,y:69,enabled:false,red:0.6770114,green:0.5075211,blue:0.9207566,suffix:,world:,dimensions:0#
+name:wisp cavern through coal,x:-646,z:-199,y:22,enabled:false,red:0.34417295,green:0.3979115,blue:0.34318966,suffix:,world:,dimensions:0#
+name:Node,x:-725,z:-176,y:64,enabled:false,red:0.8698263,green:0.62486565,blue:0.86802727,suffix:,world:,dimensions:0#
+name:Village,x:-461,z:-164,y:72,enabled:false,red:0.39727247,green:0.7768976,blue:0.48785692,suffix:,world:,dimensions:0#
+name:Big Cavern,x:-1422,z:-226,y:63,enabled:false,red:0.41680223,green:0.029240549,blue:0.19810998,suffix:,world:,dimensions:0#
+name:Node - perdito~comma~ ordo~comma~ terra,x:-634,z:-259,y:32,enabled:false,red:0.5692319,green:0.7721887,blue:0.9096888,suffix:,world:,dimensions:0#
+name:spider spawner,x:-560,z:-225,y:30,enabled:false,red:0.8996399,green:0.6988632,blue:0.6569081,suffix:,world:,dimensions:0#
+name:Mini Dungeon with node,x:-586,z:-966,y:64,enabled:false,red:0.36644226,green:0.7791175,blue:0.12527275,suffix:,world:,dimensions:0#
+name:Home,x:-679,z:-123,y:69,enabled:false,red:0.047058824,green:0.050980393,blue:0.6313726,suffix:,world:,dimensions:0#
+name:temp,x:-849,z:-797,y:63,enabled:false,red:0.49870622,green:0.023973048,blue:0.37508202,suffix:,world:,dimensions:0#
+name:mini dungeon,x:-595,z:-973,y:64,enabled:false,red:0.63093597,green:0.32437295,blue:0.1891998,suffix:,world:,dimensions:0#
+name:cult1,x:608,z:-794,y:63,enabled:false,red:0.8497251,green:0.15231723,blue:0.8853728,suffix:,world:,dimensions:0#
+name:drawpoint1,x:-508,z:-1154,y:81,enabled:false,red:0.36689687,green:0.6398502,blue:0.37297964,suffix:,world:,dimensions:0#
+name:drawpoint2,x:-536,z:-1172,y:66,enabled:false,red:0.06846857,green:0.46120572,blue:0.12848544,suffix:,world:,dimensions:0#
+name:drawpoint3,x:-643,z:-1163,y:85,enabled:false,red:0.39204997,green:0.4309942,blue:0.62835145,suffix:,world:,dimensions:0#
+name:drawpoint4,x:-480,z:-779,y:111,enabled:false,red:0.23732305,green:0.46802944,blue:0.62753797,suffix:,world:,dimensions:0#
+name:drawpoint5,x:-674,z:-1151,y:91,enabled:false,red:0.6225479,green:0.9874033,blue:0.47860104,suffix:,world:,dimensions:0#
+name:drawpoint6,x:-723,z:-1144,y:73,enabled:false,red:0.1355902,green:0.8084633,blue:0.99856097,suffix:,world:,dimensions:0#
+name:drawpoint7,x:-723,z:-1205,y:66,enabled:false,red:0.51964015,green:0.2394607,blue:0.3290503,suffix:,world:,dimensions:0#
+name:drawpoint8,x:-715,z:-1433,y:63,enabled:false,red:0.44696003,green:0.3317883,blue:0.6473619,suffix:,world:,dimensions:0#
+name:drawpoint9,x:-458,z:-1015,y:63,enabled:false,red:0.52113247,green:0.23081648,blue:0.7450202,suffix:,world:,dimensions:0#
+name:drawpoint10,x:-445,z:-1015,y:62,enabled:false,red:0.9685215,green:0.21692622,blue:0.86373794,suffix:,world:,dimensions:0#
+name:drawpoint11,x:-129,z:-869,y:63,enabled:false,red:0.8937138,green:0.15635228,blue:0.41198015,suffix:,world:,dimensions:0#
+name:drawpoint12,x:37,z:-891,y:74,enabled:false,red:0.034484327,green:0.9003088,blue:0.49623454,suffix:,world:,dimensions:0#
+name:drawpoint13 - terra~comma~ aer,x:135,z:-828,y:86,enabled:false,red:0.62723404,green:0.49610418,blue:0.49667937,suffix:,world:,dimensions:0#
+name:drawpoint15,x:219,z:-784,y:77,enabled:false,red:0.5829338,green:0.45107305,blue:0.29996306,suffix:,world:,dimensions:0#
+name:drawpoint16,x:360,z:-766,y:64,enabled:false,red:0.561889,green:0.010539055,blue:0.32455784,suffix:,world:,dimensions:0#
+name:drawpoint17,x:457,z:-769,y:63,enabled:false,red:0.2576965,green:0.7299293,blue:0.47208196,suffix:,world:,dimensions:0#
+name:drawpoint19,x:954,z:-783,y:64,enabled:false,red:0.11254281,green:0.023095727,blue:0.76079184,suffix:,world:,dimensions:0#
+name:drawpoint20 - Terra~comma~ aer,x:1497,z:-906,y:74,enabled:false,red:0.5076831,green:0.6914813,blue:0.2972095,suffix:,world:,dimensions:0#
+name:drawpoint21,x:1599,z:-1052,y:63,enabled:false,red:0.17574859,green:0.5421017,blue:0.51814187,suffix:,world:,dimensions:0#
+name:drawpoint22,x:1564,z:-1054,y:68,enabled:false,red:0.99869907,green:0.47220188,blue:0.5111618,suffix:,world:,dimensions:0#
+name:drawpoint23,x:1489,z:-1159,y:69,enabled:false,red:0.27990532,green:0.38065797,blue:0.9811036,suffix:,world:,dimensions:0#
+name:drawpoint24,x:1496,z:-1189,y:71,enabled:false,red:0.5920063,green:0.5657785,blue:0.16810298,suffix:,world:,dimensions:0#
+name:drawpoint25 aer~comma~ aqua~comma~ terra,x:1477,z:-1221,y:79,enabled:false,red:0.58764607,green:0.22822219,blue:0.1372304,suffix:,world:,dimensions:0#
+name:drawpoint26,x:1532,z:-1195,y:80,enabled:false,red:0.41572058,green:0.16815758,blue:0.4193262,suffix:,world:,dimensions:0#
+name:drawpoint27,x:1564,z:-1187,y:83,enabled:false,red:0.25999683,green:0.14060521,blue:0.42239124,suffix:,world:,dimensions:0#
+name:drawpoint28,x:1640,z:-1186,y:78,enabled:false,red:0.8763755,green:0.2516163,blue:0.4633211,suffix:,world:,dimensions:0#
+name:drawpoint29,x:1648,z:-1161,y:69,enabled:false,red:0.049657404,green:0.43036836,blue:0.08153343,suffix:,world:,dimensions:0#
+name:drawpoint30,x:1692,z:-1311,y:64,enabled:false,red:0.034928024,green:0.81037015,blue:0.1979422,suffix:,world:,dimensions:0#
+name:drawpoint31,x:1617,z:-1278,y:66,enabled:false,red:0.5119335,green:0.56471944,blue:0.5484528,suffix:,world:,dimensions:0#
+name:drawpoint32,x:1637,z:-1357,y:64,enabled:false,red:0.4340139,green:0.020273983,blue:0.82639015,suffix:,world:,dimensions:0#
+name:drawpoint33,x:1758,z:-1431,y:70,enabled:false,red:0.6172377,green:0.9518424,blue:0.5791808,suffix:,world:,dimensions:0#
+name:drawpoint34,x:1843,z:-1534,y:84,enabled:false,red:0.23668176,green:0.04862213,blue:0.73555976,suffix:,world:,dimensions:0#
+name:drawpoint35,x:2263,z:-1573,y:75,enabled:false,red:0.723264,green:0.39105815,blue:0.17265981,suffix:,world:,dimensions:0#
+name:drawpoint37,x:-462,z:-740,y:81,enabled:false,red:0.92206836,green:0.31869334,blue:0.59633267,suffix:,world:,dimensions:0#
+name:drawpoint39,x:-410,z:-428,y:70,enabled:false,red:0.056491435,green:0.58032405,blue:0.23799664,suffix:,world:,dimensions:0#
+name:drawpoint40,x:-365,z:-406,y:68,enabled:false,red:0.60549164,green:0.7606585,blue:0.46718383,suffix:,world:,dimensions:0#
+name:drawpoint41,x:-235,z:-220,y:64,enabled:false,red:0.9554128,green:0.24695748,blue:0.44820076,suffix:,world:,dimensions:0#
+name:drawpoint42,x:-324,z:-165,y:64,enabled:false,red:0.6872007,green:0.7624834,blue:0.6666271,suffix:,world:,dimensions:0#
+name:drawpoint43,x:-358,z:-79,y:70,enabled:false,red:0.13224262,green:0.74731624,blue:0.27256447,suffix:,world:,dimensions:0#
+name:drawpoint44,x:-344,z:52,y:68,enabled:false,red:0.50269145,green:0.9867089,blue:0.57091874,suffix:,world:,dimensions:0#
 name:nether_entrance,x:-744,z:-88,y:75,enabled:true,red:0.4898414,green:0.14412653,blue:0.018738806,suffix:,world:,dimensions:-1#
 name:soul_sand,x:-1328,z:632,y:59,enabled:true,red:0.28650534,green:0.12927437,blue:0.81866235,suffix:,world:,dimensions:-1#
 name:soul_sand2,x:-2392,z:408,y:60,enabled:true,red:0.9792517,green:0.7329981,blue:0.24417704,suffix:,world:,dimensions:-1#
@@ -115,5 +111,3 @@ name:drawpoint85,x:-174,z:-765,y:80,enabled:false,red:0.027095139,green:0.300697
 name:drawpoint86,x:-155,z:-692,y:72,enabled:false,red:0.38065016,green:0.49917275,blue:0.7894639,suffix:,world:,dimensions:0#
 name:drawpoint87,x:-704,z:-1234,y:68,enabled:true,red:0.36867023,green:0.030991197,blue:0.6797663,suffix:,world:,dimensions:0#
 name:cult3,x:1477,z:-869,y:66,enabled:true,red:0.24397534,green:0.7588293,blue:0.8290051,suffix:,world:,dimensions:0#
-name:Spider Spawner near home,x:-604,z:-152,y:81,enabled:true,red:0.93579113,green:0.98843795,blue:0.018827915,suffix:,world:,dimensions:0#
-name:Wisp Spawner,x:-1256,z:-428,y:95,enabled:true,red:0.14856756,green:0.7732035,blue:0.87209314,suffix:,world:,dimensions:0#
