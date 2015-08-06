@@ -115,3 +115,5 @@ name:drawpoint85,x:-174,z:-765,y:80,enabled:false,red:0.027095139,green:0.300697
 name:drawpoint86,x:-155,z:-692,y:72,enabled:false,red:0.38065016,green:0.49917275,blue:0.7894639,suffix:,world:,dimensions:0#
 name:drawpoint87,x:-704,z:-1234,y:68,enabled:true,red:0.36867023,green:0.030991197,blue:0.6797663,suffix:,world:,dimensions:0#
 name:cult3,x:1477,z:-869,y:66,enabled:true,red:0.24397534,green:0.7588293,blue:0.8290051,suffix:,world:,dimensions:0#
+name:Spider Spawner near home,x:-604,z:-152,y:81,enabled:true,red:0.93579113,green:0.98843795,blue:0.018827915,suffix:,world:,dimensions:0#
+name:Wisp Spawner,x:-1256,z:-428,y:95,enabled:true,red:0.14856756,green:0.7732035,blue:0.87209314,suffix:,world:,dimensions:0#
